@@ -23,7 +23,7 @@
 依赖：Python 3.x、numpy、scipy、matplotlib、gmsh
 
 ```bash
-python mesh_express.py      # 生成网格
-python solve_express.py     # 求解
-python portal_ploter.py     # 绘图
+python mesh_express.py      # 网格结构演示
+python solve_express.py     # 求解演示
+python portal_ploter.py     # 绘制传送门
 python stability_express.py # 收敛性验证
